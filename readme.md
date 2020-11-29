@@ -1,4 +1,5 @@
 <!-- PROJECT LOGO -->
+<main style="background-color: #23262l">
 <br />
 <p align="center">
   <a href="https://tbdscripts.com">
@@ -30,11 +31,14 @@
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+2. Make your changes and or updates.
+3. Create your Feature Branch (`git checkout -b feature/<ISO-CODE>`)
+4. Commit your Changes (`git commit -m 'YOUR-MESSAGE'`)
+5. Push to the Branch (`git push origin feature/<ISO-CODE>`)
+6. Open a Pull Request
 
+an `ISO-CODE` is the abbrivated version of the language. ie: "English" "en",
+if you are unsure what the iso code is please look [here](https://www.andiamo.co.uk/resources/iso-language-codes/)
 <br></br>
 <!-- LICENSE -->
 ## License
@@ -48,3 +52,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Morgan - [@dotMorgan](https://twitter.com/dotMorgan)
 
 Project Link: [https://tbdscripts.com](https://tbdscripts)
+</main>

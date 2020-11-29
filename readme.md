@@ -6,18 +6,18 @@
       <img src="https://tbdscripts.com/public/img/logo_full.png" alt="Logo" height=auto width=350>
     </a>
 
-    <h1 style="font-weight: bold;" align="center">Cosmo 
-    <small style="font-size: .75rem">Translations</small></h1>
+  <h1 style="font-weight: bold;" align="center">Cosmo 
+  <small style="font-size: .75rem">Translations</small></h1>
 
-    <p align="center">
-      <a href="https://www.notion.so/tbdscripts/Wiki-How-To-5b7d9e6ca92c4735b3443347f3ad18a0"><strong>Explore the docs »</strong></a>
-      <br />
-      <a href="https://cosmo.tbdscripts.com">View Demo</a>
-      ·
-      <a href="https://gmodstore.com">Report Bug</a>
-      ·
-      <a href="https://github.com/tbdscripts/request-feature/issues">Request Feature</a>
-    </p>
+  <p align="center">
+    <a href="https://www.notion.so/tbdscripts/Wiki-How-To-5b7d9e6ca92c4735b3443347f3ad18a0"><strong>Explore the docs »</strong></a>
+    <br />
+    <a href="https://cosmo.tbdscripts.com">View Demo</a>
+    ·
+    <a href="https://gmodstore.com">Report Bug</a>
+    ·
+    <a href="https://github.com/tbdscripts/request-feature/issues">Request Feature</a>
+  </p>
   </p>
 
 

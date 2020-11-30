@@ -11,11 +11,11 @@
 <p align="center">
   <a href="https://www.notion.so/tbdscripts/Wiki-How-To-5b7d9e6ca92c4735b3443347f3ad18a0"><strong>Explore the docs »</strong></a>
   <br />
-  <a href="https://cosmo.tbdscripts.com">View Demo</a>
+  <a href="https://tbdscripts.com">View Demo</a>
   ·
   <a href="https://gmodstore.com">Report Bug</a>
   ·
-  <a href="https://github.com/tbdscripts/request-feature/issues">Request Feature</a>
+  <a href="https://github.com/tbdscripts/cosmo-issues">Request Feature</a>
 </p>
 </p>
 
@@ -50,4 +50,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Morgan - [@dotMorgan](https://twitter.com/dotMorgan)
 
-Project Link: [https://tbdscripts.com](https://tbdscripts)
+Project Link: [https://tbdscripts.com](https://tbdscripts.com)

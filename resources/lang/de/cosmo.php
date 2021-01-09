@@ -54,7 +54,7 @@ return [
         'store' => 'Store',
         'success' => 'Erfolg!',
         'failed' => 'Fehler!',
-        'checkout' => 'Bezahlen',
+        'checkout' => 'Kasse',
         'users' => 'Benutzer',
         'board' => 'Board',
         'edit' => 'Bearbeiten',
@@ -85,8 +85,8 @@ return [
         'gift-purchase' => 'Als Geschenk kaufen',
         'enter_steamId' => 'SteamID Eingeben',
 
-        'finalize_purchase' => 'Kostenpflichtig Kaufen',
-        'tos_agree' => 'Beim Kauf stimmst du unseren <a href="'.route('store.tos').'">Allgemeinen Geschäftsbedingungen</a> zu', // Translate around the link
+        'finalize_purchase' => 'Kauf Fertigstellen',
+        'tos_agree' => 'Beim Kauf stimmst du unseren <a href="'.route('store.tos').'">Allgemeinen Geschäftsbedingungen</a> zu.', // Translate around the link
         'checkout_with-paypal' => 'Mit PayPal Bezahlen',
 
         'complete_purchase' => 'Kauf Fertigstellen',
@@ -358,11 +358,11 @@ return [
                 'manage' => 'Bearbeiten'
             ],
             'coupon_code' => 'Rabatt Code',
-            'sales' => 'Sales',
+            'sales' => 'Angebote',
             'tos' => 'AGB',
-            'transactions' => 'Transactions',
+            'transactions' => 'Transaktionen',
             'profile' => 'Profil',
-            'exit_management' => 'Exit Management',
+            'exit_management' => 'Management Verlassen',
             'logout' => 'Abmelden',
         ],
 
@@ -371,9 +371,9 @@ return [
             'check_for_updates' => 'Nach Aktualisierungen prüfen',
 
             'dashboard_title' => 'Dashboard',
-            'dashboard_small' => 'Page Statistics',
+            'dashboard_small' => 'Seiten Statistiken',
 
-            'configurations_title' => 'Configurations',
+            'configurations_title' => 'Einstellungen',
             'configurations_small' => 'Manage Configuration',
 
             'meta_title' => 'Meta',
@@ -424,9 +424,9 @@ return [
             'theme_title' => 'Theme',
             'theme_small' => 'Manage Themes',
 
-            'create_new_category' => 'Neue Ka....................................................................................................................................................................................................................................Create new category',
-            'category_name' => 'Category Name',
-            'category_desc' => 'Category Description',
+            'create_new_category' => 'Neue Kategorie erstellen',
+            'category_name' => 'Name der Kategorie',
+            'category_desc' => 'Beschreibung der Kategorie',
 
             'create_new_board' => 'Create new board',
             'board_name' => 'Board Name',
@@ -454,18 +454,18 @@ return [
             'paypal_client_secret' => 'PayPal Client Secret',
             'paypal_webhook_id' => 'PayPal Webhook ID',
 
-            'enable_chargeback-bans' => 'Enable chargeback bans',
+            'enable_chargeback-bans' => 'Aktiviere Chargeback-Ban',
             'chargeback-ban' => '<code>Enable chargeback bans</code> - When a user tries to initiate a charge back via paypal, we will automatically ban the user from accessing your website.',
 
-            'package_title' => 'Packages',
-            'package_small' => 'Create Packages',
-            'create_new_package' => 'Create new package!',
-            'package_name' => 'Package Name',
-            'package_price' => 'Package Price',
-            'package_image' => 'Package Image',
-            'package_servers' => 'Servers',
-            'package_category' => 'Category',
-            'package_description' => 'Package Description',
+            'package_title' => 'Pakete',
+            'package_small' => 'Paket Erstellen',
+            'create_new_package' => 'Erstelle ein neues Paket.',
+            'package_name' => 'Paket Name',
+            'package_price' => 'Paket Preis',
+            'package_image' => 'Paket Bild',
+            'package_servers' => 'Server',
+            'package_category' => 'Kategorie',
+            'package_description' => 'Paket Beschreibung',
 
             'create_new_coupon' => 'Create new coupon',
             'coupon_code' => 'Coupon Code',
@@ -479,12 +479,12 @@ return [
             'coupon_package_end-date' => 'Expiration Date',
             'coupon_package_end-date_info' => 'After this date, the coupon will not be able to get used again',
 
-            'create_new_sale' => 'Create new sale',
-            'sale_title' => 'Sale Title',
-            'sale_percentage' => 'Sale Percentage',
-            'sale_packages' => 'Sale Packages',
-            'sale_start-date' => 'Start Date',
-            'sale_end-date' => 'Expiration Date',
+            'create_new_sale' => 'Neues Angebot erstellen',
+            'sale_title' => 'Angebot Titel',
+            'sale_percentage' => 'Angebot Prozent',
+            'sale_packages' => 'Pakete im Angebot',
+            'sale_start-date' => 'Start-Datum',
+            'sale_end-date' => 'End-Datum',
 
             'update_terms' => 'Update Terms Of Service',
         ],
